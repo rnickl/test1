@@ -1,4 +1,4 @@
-# Canopy Software Data Mining 
+# Canopy Software Data Mining Export
 
 ## Project
 ### Name 
@@ -32,7 +32,7 @@
 
 ## Support
 ### Documentation
-[Learn more about exports.] (https://docs.canopyco.io/projects/export-management/ "Canopy Software's Export Management Documentation")
+[Learn more about exports.](https://docs.canopyco.io/projects/export-management/ "Canopy Software's Export Management Documentation")
 
 ### Contact
 mailto:support@canopyco.io
