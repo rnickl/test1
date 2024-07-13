@@ -9,16 +9,17 @@
 
 ## Export 
 
-### Creation Date
-{{datetime}} 
-
-### Created By
-
 ### Name 
 {{export_name}}
 
 ### Type
 {{export_type}}
+
+### Creation Date
+{{datetime}} 
+
+### Created By
+{{user}}
 
 ### Fields
 1. {{field 1}}
